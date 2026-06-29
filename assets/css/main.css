@@ -219,9 +219,9 @@ hr {
   hr.major {
     margin: 3em 0; }
   hr.minor {
-    border: 0;
-    border-top: 0;
-    margin: 20px 0;}
+    border: none;
+    border-bottom: none;
+    margin: 2em 0;}
 
 .align-left {
   text-align: left; }
