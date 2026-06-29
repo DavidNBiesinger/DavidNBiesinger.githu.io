@@ -2275,3 +2275,7 @@ button,
     border-top: 0;
     margin-top: 0;
     padding-top: 0; }
+
+.social-link {
+  color: #2563EB; /* or your theme color */
+}
