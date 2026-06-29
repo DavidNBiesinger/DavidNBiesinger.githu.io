@@ -218,6 +218,10 @@ hr {
   margin: 2em 0; }
   hr.major {
     margin: 3em 0; }
+  hr.minor {
+    border: 0;
+    border-top: 1px solid rgba(0,0,0,0.1);
+    margin: 20px 0;}
 
 .align-left {
   text-align: left; }
